@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Sam 👋
 
-<!--
-**sbadji/sbadji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Agile Coach in Supply Chain IT, with 25 years in regulated aerospace and automotive environments.
+I work where **Agile at scale (SAFe)** meets **AI tooling**.
 
-Here are some ideas to get you started:
+### 🔭 What I'm working on
+- Building the foundations of an AI-assisted SDLC using Spec-Driven Development
+- Designing AI coaching agents for Product Owners (discovery, backlog refinement, PI Planning)
+- BDD specification tools and Claude Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 What I care about
+- Making AI accessible to non-technical teams
+- Clear pedagogy and structured methods
+- Connecting discovery and design thinking with delivery
+
+### 🌍 Languages
+French · English
+
+### 📫 Reach me
+[LinkedIn](https://www.linkedin.com/in/samir-b-32544325/)
